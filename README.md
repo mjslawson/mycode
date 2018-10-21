@@ -31,7 +31,7 @@ Here you could make notes about how others might contribute to your code. For ri
 
 
 ## Authors
-* **Matthew Lawson** - *Initial work* - [mjslawson.com](https://mjslawson.com/){:target="_blank"}
+* **Matthew Lawson** - *Initial work* - [mjslawson.com](https://mjslawson.com/)
 
 
 ## License
@@ -39,4 +39,4 @@ This project is licensed under the GNUv3 - see the [LICENSE.md](LICENSE.md) file
 
 
 ## Acknowledgments
-* [Alta3](https://alta3.com/){:target="_blank"}
+* [Alta3](https://alta3.com/)
