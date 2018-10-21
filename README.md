@@ -1,5 +1,5 @@
 # mycode
-Learning to track my code
+Learning to track my code, with Alta3's git lab
 
 
 ## Getting Started
